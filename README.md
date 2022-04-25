@@ -1,4 +1,4 @@
-<p align="center>## brentice e. loper</p>
+<p align="center">## brentice e. loper</p>
 
 <p align="center">
   <img width="460" height="460" src="https://avatars.githubusercontent.com/u/54426613?v=4">
