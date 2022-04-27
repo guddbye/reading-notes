@@ -23,3 +23,5 @@ I am Brentice Loper or *John* when I order Starbucks. I was in the Navy for five
   [The Coder's Computer](TheCodersComputer.md)
   
   [Revisions and the Cloud](RevisionAndCloud.md)
+  
+[HTML](HTMLnotes.md)
