@@ -23,4 +23,6 @@ I am Brentice Loper or *John* when I order Starbucks. I was in the Navy for five
   [Growth Mindset](growthmindset.md)
   
   [The Coder's Computer](TheCodersComputer.md)
+  
+  [Revisions and the Cloud](RevisionAndCloud.md)
 </div>
