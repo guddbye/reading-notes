@@ -27,3 +27,5 @@ I am Brentice Loper or *John* when I order Starbucks. I was in the Navy for five
   [HTML Notes](HTMLnotes.md)
 
    [CSS Notes](CSSnotes.md)
+  
+  [Javascript Notes](JSNotes.md)
