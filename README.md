@@ -34,5 +34,4 @@ I am Brentice Loper or <em>John</em> when I order Starbucks. I was in the Navy f
 <p><a href="/reading-notes/Class5.html">Class 5 Notes</a></p>
 
 <p><a href="/reading-notes/Class6.html">Class 6 Notes</a></p>
-
 </div>
