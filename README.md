@@ -2,6 +2,7 @@
 
 <p align="center">
   <img width="460" height="460" src="https://avatars.githubusercontent.com/u/54426613?v=4">
+  </p>
 
   <body>
     <p>
@@ -32,3 +33,5 @@ I am Brentice Loper or *John* when I order Starbucks. I was in the Navy for five
 [CSS Notes](CSSnotes.md)
   
 [Javascript Notes](JSNotes.md)
+  
+[Programming with Javascript](ProgrammingJS.md)
