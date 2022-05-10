@@ -38,3 +38,4 @@ I am Brentice Loper or *John* when I order Starbucks. I was in the Navy for five
 [Programming with Javascript](ProgrammingJS.md)
 
 # CLASS 201
+[Class Notes 01](class-01.md)
