@@ -21,6 +21,7 @@ I am Brentice Loper or *John* when I order Starbucks. I was in the Navy for five
 
 
 ## ToC
+# CLASS 102 
 
 [Growth Mindset](growthmindset.md)
   
@@ -35,3 +36,5 @@ I am Brentice Loper or *John* when I order Starbucks. I was in the Navy for five
 [Javascript Notes](JSNotes.md)
   
 [Programming with Javascript](ProgrammingJS.md)
+
+# CLASS 201
