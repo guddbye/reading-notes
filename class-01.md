@@ -33,3 +33,13 @@ HTML page structure is set up with the <HTML> tag first, <BODY> tag second, any 
   Design is about communication and planning. Visual hierarchy helps visitors understand what you arae trying to tell them. 
   You can differentiate between pieces of informaiton using size, color, ad style. 
   You can use groupings and similarity to help simplify the information you present. 
+
+  
+  ## JS
+  # Introduction
+  
+  > How do I write a script a script for a web page?
+  It is best to keep Javascript code in its own Java file. Javascript files are text files, but they have .js extentions. 
+  The HTML <SCRIPT> element is used in the HTML page to tell the browser to load the JS file.
+  
+  > Basics
