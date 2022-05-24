@@ -60,4 +60,4 @@ I am Brentice Loper or *John* when I order Starbucks. I was in the Navy for five
 
 [Class Notes 11](class-11.md)
 
-
+[Class Notes 12](class-12.md)
