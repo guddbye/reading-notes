@@ -36,3 +36,38 @@ Relative path
 A file or directory location relative to where we currently are in the file system.
 Absolute path
 A file or directory location in relation to the root of the file system.
+
+# file
+obtain information about what type of file a file or directory is.
+# ls -a
+List the contents of a directory, including hidden files.
+Even directories.
+
+# man <command>
+Look up the manual page for a particular command.
+# man -k <search term>
+Do a keyword search for all manual pages containing the given search term.
+# /<term>
+Within a manual page, perform a search for 'term'
+# n
+After performing a search within a manual page, select the next found item.
+  
+# mkdir
+Make Directory - ie. Create a directory.
+  
+# rmdir
+Remove Directory - ie. Delete a directory.
+  
+# touch
+Create a blank file.
+  
+# cp
+Copy - ie. Copy a file or directory.
+  
+# mv
+Move - ie. Move a file or directory (can also be used to rename).
+  
+# rm
+Remove - ie. Delete a file.
+  
+[Cheat Sheet](https://ryanstutorials.net/linuxtutorial/cheatsheet.php)
